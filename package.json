@@ -1,0 +1,8 @@
+{
+  "name": "jest-repro",
+  "private": true,
+  "dependencies": {
+    "esm": "^3.2.25",
+    "jest": "^27.0.0"
+  }
+}
